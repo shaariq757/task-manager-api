@@ -9,7 +9,7 @@
     "mongoose": "^6.13.6",
     "multer": "^2.0.1",
     "sharp": "^0.33.1",
-    "validator": "^13.11.0"
+    "validator": "^13.15.20"
   },
   "scripts": {
     "start": "node index.js",
